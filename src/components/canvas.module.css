@@ -1,0 +1,9 @@
+canvas {
+  height: 400px;
+  width: 400px;
+  border: 1px solid rgb(184, 184, 184);
+  box-shadow: 17px 10px 8px -8px rgba(188, 193, 193, 0.75);
+  -webkit-box-shadow: 17px 10px 8px -8px rgba(188, 193, 193, 0.75);
+  -moz-box-shadow: 17px 10px 8px -8px rgba(188, 193, 193, 0.75);
+  border-radius: 5px;
+}
